@@ -1,2 +1,2 @@
 # Coursera_Capstone
-coursera
+## This is only for the project **_CAPSTONE)
